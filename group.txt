@@ -1,8 +1,5 @@
-
-
-=======
-again updated
->>>>>>> stage
+firstline
+again updated stage
 secondline
 firstline
 this is devops group
